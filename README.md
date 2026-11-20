@@ -21,46 +21,56 @@ Bảng Điều Khiển là tiện ích tiếng Việt dành cho Windows, tập h
 📌	Giao diện và taskbar	Đổi sáng/tối, ghim cửa sổ, thu xuống khay và mở tool từ taskbar.
 
 📖 Chi tiết từng chức năng
+
 📊 1. Giám sát CPU và RAM
 - CPU: hiển thị tỷ lệ sử dụng mỗi giây. Nhấn biểu tượng CPU để xem 5 tiến trình dùng nhiều CPU nhất, sắp xếp giảm dần.
 - RAM: hiển thị tỷ lệ bộ nhớ đang sử dụng. Nhấn đúp biểu tượng RAM để dọn bộ nhớ.
+
 🌐 2. Wi-Fi, LAN và lưu lượng mạng
 - Thanh Wi-Fi/LAN phía trên: hiển thị loại kết nối, tốc độ tải xuống ↓ và tải lên ↑. Rê chuột để xem tên bộ điều hợp, địa chỉ IP và MAC.
 - Theo dõi tiến trình: nhấn thanh Wi-Fi/LAN để xem tốc độ tải xuống và tải lên của từng tiến trình. Danh sách cập nhật mỗi giây, xếp theo tổng lưu lượng hai chiều và dừng theo dõi khi đóng mục mạng hoặc ẩn tool.
 - Ô Wi-Fi: bật/tắt Wi-Fi, quét mạng, chọn điểm truy cập, nhập mật khẩu, kết nối hoặc ngắt kết nối.
+
 📶 3. Bluetooth, Hotspot và chế độ máy bay
 - Bluetooth: bật/tắt, quét thiết bị, ghép đôi, huỷ ghép đôi và xem trạng thái kết nối. Mức pin hiển thị khi thiết bị và driver cung cấp.
 - Wi-Fi Hotspot: bật/tắt phát Wi-Fi, đổi tên mạng, đổi mật khẩu và xem trạng thái. Tên mạng mặc định là tên máy tính, mật khẩu ban đầu là 11112222.
 - Máy bay / Radio: có hai công tắc riêng. Một công tắc bật/tắt đồng thời Wi-Fi và Bluetooth, công tắc còn lại điều khiển chế độ máy bay của Windows.
+
 🖥️ 4. Màn hình và trình chiếu
 - Độ sáng: kéo thanh trượt để điều chỉnh và xem tỷ lệ %. Khi máy không hỗ trợ điều chỉnh, cuối giao diện hiển thị hướng dẫn.
 - Ánh sáng đêm: bật/tắt Night Light và điều chỉnh cường độ.
 - Trình chiếu: chọn chỉ màn hình máy tính, nhân đôi, mở rộng hoặc chỉ màn hình ngoài. Có lối mở kết nối màn hình không dây.
 - Tỷ lệ hiển thị: chọn mức thu phóng mà màn hình chính hỗ trợ.
 - Độ phân giải: chọn độ phân giải và tần số quét. Tool đánh dấu chế độ ban đầu và chế độ đang dùng, tự hoàn tác sau 15 giây nếu bạn chưa xác nhận.
+
 🔊 5. Âm thanh, micro và camera
 - Âm lượng hệ thống: kéo thanh âm lượng hoặc nhấn biểu tượng loa để tắt/bật tiếng.
 - Đầu ra và Volume Mixer: nhấn biểu tượng cạnh % âm lượng để chọn loa, tai nghe và chỉnh âm lượng hoặc tắt tiếng riêng từng ứng dụng đang có phiên âm thanh.
 - Micro: nhấn một lần để tắt tiếng, nhấn lại để mở.
 - Camera: nhấn một lần để tắt thiết bị, nhấn lại để bật. Trạng thái tắt camera và micro được áp dụng tại Windows và tiếp tục có hiệu lực khi thoát tool.
+
 🔋 6. Pin, gập nắp và nguồn điện
 - Chế độ hiệu suất: nhấn biểu tượng pin để chọn Tiết kiệm pin, Cân bằng hoặc Tốc độ.
 - Gập nắp laptop: chọn riêng hành động Ngủ hoặc Không làm gì cho hai trường hợp Cắm sạc và Dùng pin. Lựa chọn được áp dụng ngay.
 - Nguồn: có nút riêng để tắt máy, khởi động lại và ngủ, kèm bước xác nhận.
 - Tắt màn hình: tắt tạm màn hình trong khi máy tiếp tục chạy. Nhấn phím để mở lại.
 - Task Manager: mở nhanh Trình quản lý tác vụ bằng biểu tượng cạnh nút Sleep.
+
 📅 7. Đồng hồ và lịch âm dương Việt Nam
 Nhấn đồng hồ trên giao diện để xem lịch tháng theo múi giờ Việt Nam UTC+7. Bạn có thể chuyển tháng, quay về hôm nay hoặc chọn một ngày để xem ngày âm, can chi, ngày lễ và giờ hoàng đạo.
+
 💻 8. Xem và xuất cấu hình máy
 Góc dưới bên phải hiển thị tên máy, model, CPU, RAM và ổ lưu trữ. Nhấn biểu tượng xuất để lưu báo cáo trên Desktop theo mẫu <Tên máy>_<ngày>.txt.
 
 Báo cáo tổng hợp thông tin phần cứng, pin, bo mạch chủ, Windows, Office, trạng thái kích hoạt, phần mềm bảo mật, IP và MAC. Các trường chi tiết phụ thuộc vào dữ liệu Windows và phần cứng cung cấp.
+
 🛠️ 9. Tiện ích Windows và Cấu hình/Sửa
 Tiện ích Windows mở nhanh Mobility Center, God Mode, chế độ thuyết trình, Devices and Printers, chia sẻ lân cận, cài đặt thông báo, Device Manager, quyền camera và quyền micro.
 
 Cấu hình/Sửa gồm 25 chức năng. Rê chuột lên nút để đọc hướng dẫn. Các tác vụ nhiều bước hiển thị tiến trình trên dòng trạng thái.
 <details>
-<summary><strong>⚙️ Cấu hình máy tính — 8 chức năng</strong></summary>1. Cấu hình UAC – mở bảng chọn mức thông báo kiểm soát tài khoản.
+
+  <summary><strong>⚙️ Cấu hình máy tính — 8 chức năng</strong></summary>1. Cấu hình UAC – mở bảng chọn mức thông báo kiểm soát tài khoản.
 2. Tắt thông báo – tắt biểu ngữ thông báo cho người dùng hiện tại.
 3. Bộ lọc tường lửa – mở giao diện quản lý quy tắc kết nối.
 4. Bật tường lửa – bật cho các cấu hình Domain, Private và Public.
@@ -69,7 +79,8 @@ Cấu hình/Sửa gồm 25 chức năng. Rê chuột lên nút để đọc hư�
 7. Quản lý user – mở công cụ quản lý tài khoản Windows.
 8. Đổi tên máy – nhập tên mới và áp dụng sau khi khởi động lại.
 </details><details>
-<summary><strong>🎚️ Tuỳ chỉnh hệ thống — 8 chức năng</strong></summary>1. Hosts · Notepad – chỉnh tệp hosts bằng Notepad với quyền quản trị.
+
+  <summary><strong>🎚️ Tuỳ chỉnh hệ thống — 8 chức năng</strong></summary>1. Hosts · Notepad – chỉnh tệp hosts bằng Notepad với quyền quản trị.
 2. Hosts · Notepad++ – chỉnh tệp hosts bằng Notepad++.
 3. Menu cổ điển – áp dụng kiểu menu chuột phải cổ điển.
 4. Menu hiện đại – khôi phục kiểu menu chuột phải hiện đại.
@@ -78,7 +89,8 @@ Cấu hình/Sửa gồm 25 chức năng. Rê chuột lên nút để đọc hư�
 7. Control Panel – mở bảng điều khiển của Windows.
 8. Date Time Format – mở phần thiết lập định dạng ngày, giờ và số.
 </details><details>
-<summary><strong>🔧 Khắc phục lỗi — 9 chức năng</strong></summary>1. Sửa Task Manager – cho phép sử dụng và mở Trình quản lý tác vụ.
+
+  <summary><strong>🔧 Khắc phục lỗi — 9 chức năng</strong></summary>1. Sửa Task Manager – cho phép sử dụng và mở Trình quản lý tác vụ.
 2. Sửa icon trắng – xoá bộ nhớ đệm biểu tượng và khởi động lại Explorer.
 3. Tắt AutoPlay/quét USB – tắt AutoPlay và dùng Microsoft Defender quét ổ tháo rời.
 4. Sửa kẹt giấy máy in – sau khi lấy giấy kẹt ra, dùng nút này để xoá hàng đợi và khởi động lại dịch vụ in.
@@ -87,12 +99,14 @@ Cấu hình/Sửa gồm 25 chức năng. Rê chuột lên nút để đọc hư�
 7. Xoá tập tin tạm – dọn thư mục Temp của người dùng, bỏ qua tệp đang bị khoá.
 8. Ping 8.8.8.8 – kiểm tra kết nối liên tục. Nhấn Ctrl+C để dừng.
 9. Chia sẻ máy in LAN – nhập tên hoặc IP máy chủ để mở danh sách máy in được chia sẻ và chọn máy in cần kết nối.
+
 </details>📌 10. Giao diện, khay hệ thống và taskbar
 - Sáng/tối: chuyển giao diện bằng biểu tượng ở đầu cửa sổ.
 - Ghim cửa sổ: nhấn biểu tượng ghim để giữ bảng điều khiển trên cùng, nhấn lại để bỏ ghim.
 - Khay hệ thống: thu gọn tool xuống khay, mở lại từ biểu tượng hoặc chọn Thoát để đóng hẳn.
 - Khởi động cùng Windows: bật/tắt bằng biểu tượng tích hợp cạnh nút Tắt màn hình. Tool đăng ký theo đường dẫn EXE hiện tại.
 - Menu taskbar: khi đã bật tích hợp, nhấn chuột phải vào vùng trống trên thanh taskbar để sử dụng các mục sau, theo đúng thứ tự hiển thị:
+
 Thứ tự	Mục menu	Thao tác
 1	Tắt màn hình	Tắt tạm màn hình.
 2	Restart Explorer	Khởi động lại Windows Explorer.
